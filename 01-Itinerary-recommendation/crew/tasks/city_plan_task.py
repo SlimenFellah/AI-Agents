@@ -1,15 +1,3 @@
-# from crewai import Task
-# from agents.city_planner import city_planner_agent
-# from tools import get_cities, get_places_by_city
-
-# city_planner_agent.tools = [get_cities, get_places_by_city]
-
-# recommendation_task = Task(
-#     description="Suggest cities and places in Algeria to visit for a tourist interested in nature, history, and culture.",
-#     expected_output="List of recommended cities and a daily itinerary with places to visit.",
-#     agent=city_planner_agent
-# )
-
 from crewai import Task
 from agents.city_planner import city_planner_agent
 
