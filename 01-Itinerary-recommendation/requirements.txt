@@ -2,10 +2,10 @@ fastapi
 uvicorn
 pydantic
 sqlalchemy
-crewai 
-langchain 
-langchain-community 
-fastapi 
+crewai
+langchain
+langchain-community
 requests
 crewai_tools
 langchain-ollama
+ollama
