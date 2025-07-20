@@ -9,9 +9,9 @@ A privacy-first, local AI-powered assistant that takes in user-defined tasks, cl
 - 🧾 **Natural Language Task Input**
 - 🧠 **Category Classification (Work, Health, etc.)**
 - 🔍 **Ambiguity Detection & Clarification**
-- 🪄 **Task Expansion into Actionable Steps**
-- 📦 Modular graph-based architecture using LangGraph
-- 💻 100% offline execution via Ollama + LLaMA2
+- 🧾 **Task Expansion into Actionable Steps**
+- 📦 **Modular graph-based architecture using LangGraph**
+- 💻 **100% offline execution via Ollama + LLaMA2**
 
 ---
 
